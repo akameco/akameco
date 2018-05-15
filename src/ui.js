@@ -34,7 +34,7 @@ const items = [
     url: 'http://qiita.com/akameco',
   },
   {
-    label: 'Qiet',
+    label: 'Quit',
     action() {
       process.exit() // eslint-disable-line no-process-exit,unicorn/no-process-exit
     },
